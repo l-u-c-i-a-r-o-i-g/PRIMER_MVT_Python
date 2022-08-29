@@ -55,7 +55,7 @@ ROOT_URLCONF = 'datos_familiares_web.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["C:\\LUCIA\\Python\\PRIMER_MVT\\datos_familiares_web\\templates\\template.html"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
